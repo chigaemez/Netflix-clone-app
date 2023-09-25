@@ -5,10 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
+body {
   font-family: 'Cabin', sans-serif;
   font-family: 'Poppins', sans-serif;
   font-family: 'Space Grotesk', sans-serif;
-  scroll-behavior: smooth;
   background-color: #000000;
+
 }
